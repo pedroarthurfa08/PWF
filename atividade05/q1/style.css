@@ -1,0 +1,8 @@
+#meuComponente {
+    visibility: hidden;
+    background-color: lightblue;
+    padding: 20px;
+    text-align: center;
+    margin-top: 20px;
+    width: 200px;
+  }
